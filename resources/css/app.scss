@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,600');
+@import '~font-awesome/scss/font-awesome';
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap-sass/assets/stylesheets/bootstrap';
+
+// Admin-lte
+@import '~admin-lte/dist/css/AdminLTE.css';
+@import '~admin-lte/dist/css/skins/_all-skins.css';
+
+@import 'custom';

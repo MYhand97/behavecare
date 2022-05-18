@@ -1,0 +1,61 @@
+a.dropdown-toggle {
+  height: 52px;
+}
+#users-table > tbody > tr > td {
+  vertical-align: middle;
+}
+i.small.fa.fa-chevron-right {
+  position: relative;
+  bottom: 2px;
+  margin-right: 3px;
+}
+a#btn-register-user {
+  position: relative;
+  bottom: 5px;
+}
+.pagination > li > a, .pagination > li > span {
+  color: #666 !important;
+}
+li.active > span {
+  background: #eee !important;
+  border-color: #dadada !important;
+}
+[for=profile-image] {
+  padding-top: 0px !important;
+}
+input#logo_image {
+    padding-top: 20px !important;
+}
+.delete-form {
+  display: inline-block;
+}
+.profile-image-con {
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 180px;
+  display: block;
+  margin-top: 1px;
+}
+.logo-image-con {
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 150px;
+  display: block;
+  margin-top: 1px;
+}
+label.control-label.img-lb {
+}
+.user-panel {
+  display: flex;
+  align-items: flex-end;
+  margin-left: 0px;
+}
+li.header{
+  color: #b8c7ce !important
+}
+.nav-tabs-custom > .nav-tabs > li.active {
+  border-top-color: orange !important;
+}
+.fr-btns-wrp {
+  padding: 40px;
+}
